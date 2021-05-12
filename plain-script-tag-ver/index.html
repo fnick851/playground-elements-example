@@ -1,0 +1,15 @@
+<script src="./playground-elements-0.9.3.js"></script>
+
+<playground-ide editable-filesystem line-numbers resizable>
+  <script type="sample/html" filename="index.html">
+    <!doctype html>
+    <body>
+      Hello
+      <script type="module" src="./index.js">&lt;/script>
+    </body>
+  </script>
+
+  <script type="sample/ts" filename="index.ts">
+    document.body.appendChild(document.createTextNode("World!"))
+  </script>
+</playground-ide>
