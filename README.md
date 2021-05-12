@@ -7,5 +7,5 @@ Official Rollup and Webpack examples: https://github.com/PolymerLabs/playground-
 
 ## Plain script tag version
 
-`cd` into `plain-script-tag-ver`  
-run `npx serve`
+1. `cd` into `plain-script-tag-ver`
+2. run `npx serve`
