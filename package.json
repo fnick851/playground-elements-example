@@ -1,5 +1,11 @@
 {
+  "scripts": {
+    "dev": "npx web-dev-server --node-resolve --watch"
+  },
   "dependencies": {
     "playground-elements": "^0.9.3"
+  },
+  "devDependencies": {
+    "@web/dev-server": "^0.1.17"
   }
 }
